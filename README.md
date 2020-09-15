@@ -1,2 +1,3 @@
 # hello-world
-hello worl try
+hello world try
+a file explaining the project
